@@ -1,0 +1,10 @@
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\bin\Debug\ftpDownload.exe.config
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\bin\Debug\ftpDownload.exe
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\bin\Debug\ftpDownload.pdb
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\obj\Debug\ftpDownload.csprojAssemblyReference.cache
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\obj\Debug\ftpDownload.Form1.resources
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\obj\Debug\ftpDownload.Properties.Resources.resources
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\obj\Debug\ftpDownload.csproj.GenerateResource.cache
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\obj\Debug\ftpDownload.csproj.CoreCompileInputs.cache
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\obj\Debug\ftpDownload.exe
+C:\Users\Janik\source\repos\ftpDownload\ftpDownload\obj\Debug\ftpDownload.pdb
